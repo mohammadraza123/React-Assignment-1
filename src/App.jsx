@@ -614,12 +614,7 @@ function App(){
                   ]
 
 
-                  
-
-  
-  
-
-   return(
+    return(
     <div><h1>{name}</h1>
     <h1>{obj.user}</h1>
     <h1>{data[0]}</h1>
